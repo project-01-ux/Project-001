@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /*?*
+Disallow: /report-profile/
+
+Sitemap: https://bangalorecompanions.demo/sitemap.xml
